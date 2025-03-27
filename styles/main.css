@@ -50,7 +50,7 @@ body {
     border-radius: 50%;
     margin: 0 auto 1.5rem;
     border: 3px solid white;
-    background-image: url('assests/me.jpg');
+    background-image: url('/assests/me.jpg');
     background-size: cover;
 }
 
